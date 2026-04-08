@@ -1,2 +1,2 @@
 # Machine-Learning
-These are my Machine Learning Projects.
+These are my core Machine Learning Projects.
